@@ -105,3 +105,4 @@ npm install pug sequelize pg pg-hstore
 
 **PROJECT EXPLANATION**
 LINK--
+https://drive.google.com/file/d/1Pad9DWV6Qin2nrpoRezkhOEgfckHomIY/view?usp=sharing
